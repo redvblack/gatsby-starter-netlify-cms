@@ -8,7 +8,7 @@ mainpitch:
   title: Some statement
   description: |
     Blurb about that statement
-description: Let me tell you some more things about GSG
+description: Let me tell you some more things about GSG.
 intro:
   blurbs:
     - image: /img/soccer-ball-3857071_640.jpg
